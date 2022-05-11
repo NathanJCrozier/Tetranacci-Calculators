@@ -1,0 +1,32 @@
+Running the multiple tetra calculator on an input of: 5
+The result we got was: 2
+The total time elapsed is: 168900 nanoseconds.
+
+Running the multiple tetra calculator on an input of: 10
+The result we got was: 56
+The total time elapsed is: 80900 nanoseconds.
+
+Running the multiple tetra calculator on an input of: 15
+The result we got was: 1490
+The total time elapsed is: 424600 nanoseconds.
+
+Running the multiple tetra calculator on an input of: 20
+The result we got was: 39648
+The total time elapsed is: 1491500 nanoseconds.
+
+Running the multiple tetra calculator on an input of: 25
+The result we got was: 1055026
+The total time elapsed is: 10706500 nanoseconds.
+
+Running the multiple tetra calculator on an input of: 30
+The result we got was: 28074040
+The total time elapsed is: 259305200 nanoseconds.
+
+Running the multiple tetra calculator on an input of: 35
+The result we got was: 747044834
+The total time elapsed is: 6906363400 nanoseconds.
+
+Running the multiple tetra calculator on an input of: 40
+The result we got was: 19878720128
+The total time elapsed is: 182880707600 nanoseconds.
+
